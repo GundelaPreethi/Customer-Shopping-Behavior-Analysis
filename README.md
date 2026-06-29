@@ -82,7 +82,10 @@ The dashboard provides interactive visualizations including:
 * Payment Method Analysis
 * Seasonal Purchase Trends
 * Customer Demographics
+  
+## Dashboard Preview
 
+![Dashboard](images/dashboard.png)
 ---
 
 ## Key Business Insights
